@@ -13,4 +13,5 @@ The whole commit since the beginning of this project was created under the repos
 every single project will have its on repository.
 
 
-![Screenshot_2023-11-14_19-45-48](https://github.com/AtAllCreativity/Rock-Paper-or-Scissor/assets/144659936/3596060d-b5f9-4f14-9f42-29e61c4240f4)
+
+![rock-paper-scissor](https://github.com/AtAllCreativity/Rock-Paper-or-Scissor/assets/144659936/9573a3b0-9564-475a-ad93-dddc3d491080)
